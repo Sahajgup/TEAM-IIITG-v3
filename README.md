@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/818974661.svg)](https://zenodo.org/doi/10.5281/zenodo.12507618)
+
 # PACE2024
 This solver converts the OSCM problem into an Integer Linear Programming Optimization problem. We use CBC solver to solve the ILP. We apply a few optimmizations as preprocessing steps before passing it on to the solver along with constraints and an objective to minimize the number of crossings.
 
